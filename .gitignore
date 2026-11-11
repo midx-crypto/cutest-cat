@@ -1,0 +1,6 @@
+makefun/
+*.tar.gz
+out/
+node_modules/
+.env
+makefun-keypair.json
